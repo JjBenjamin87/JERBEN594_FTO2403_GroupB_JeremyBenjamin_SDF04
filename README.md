@@ -38,3 +38,8 @@ Embark on this CSS journey to transform simple buttons into interactive, animate
 - Submit the link to your GitHub repository on the LMS under the SDF04 project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+
+DESIGN PROCESS
+The main goal of this project was to style 3 buttons which were unique to me. I achieved this  by using design properties like linear gradient, box shadow and z-index to stack elements.
+
+MY main refrence point was the examples provide from the codpen code.
